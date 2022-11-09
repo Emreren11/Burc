@@ -1,2 +1,2 @@
 # Burc
-Burç bulan program (www.patika.dev)
+Girilen ay ve güne göre hangi burç olduğunu gösteren program
